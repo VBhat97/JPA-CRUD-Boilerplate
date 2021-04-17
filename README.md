@@ -5,5 +5,5 @@ A boiler plate code consisting of Java Persistence API's CRUD operations on a si
 
 - entity/User.java --> Defining the Entity
 - service/UserDAOService --> Creating the CRUD operations on the inbuilt H2-database
-- UswrDAOServiceCommandLineRunner --> Code for trying out whether these CRUD operations work or not. (Implementation of these methods).
+- UserDAOServiceCommandLineRunner --> Code for trying out whether these CRUD operations work or not. (Implementation of these methods).
 
